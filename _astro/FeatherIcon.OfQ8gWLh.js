@@ -1,0 +1,1 @@
+import{j as e}from"./jsx-runtime.CYiYLu1p.js";import{t as s,I as m,H as o}from"./index.Cp5sSYzb.js";import"./index.CZlPm10g.js";function l(t){const a=t.name?.startsWith("_")?t.name.substring(1,t.name.length):s(t.name),n=m[a]||o;return e.jsx(n,{...t})}export{l as default};
