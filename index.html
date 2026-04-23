@@ -17,6 +17,8 @@ body { margin: 0; display: flex; justify-content: center; align-items: center; m
   var lang = (navigator.language || navigator.userLanguage || 'en').toLowerCase();
   if (lang.startsWith('ja')) {
     window.location.replace('/ja/');
+  } else if (lang.startsWith('zh')) {
+    window.location.replace('/zh/');
   } else {
     window.location.replace('/en/');
   }
