@@ -1,1 +1,85 @@
-<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"><url><loc>https://pmp.nerdis.co.jp</loc></url><url><loc>https://pmp.nerdis.co.jp/about</loc></url><url><loc>https://pmp.nerdis.co.jp/changelog</loc></url><url><loc>https://pmp.nerdis.co.jp/contact</loc></url><url><loc>https://pmp.nerdis.co.jp/faq</loc></url><url><loc>https://pmp.nerdis.co.jp/features</loc></url><url><loc>https://pmp.nerdis.co.jp/index-old</loc></url><url><loc>https://pmp.nerdis.co.jp/quiz-sample</loc></url><url><loc>https://pmp.nerdis.co.jp/scroll-demo</loc></url><url><loc>https://pmp.nerdis.co.jp/terms</loc></url><url><loc>https://pmp.nerdis.co.jp/theme</loc></url></urlset>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://pmp.nerdis.co.jp/</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://pmp.nerdis.co.jp/ja/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pmp.nerdis.co.jp/en/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://pmp.nerdis.co.jp/zh/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pmp.nerdis.co.jp/en/"/>
+  </url>
+  <url>
+    <loc>https://pmp.nerdis.co.jp/ja/</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://pmp.nerdis.co.jp/ja/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pmp.nerdis.co.jp/en/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://pmp.nerdis.co.jp/zh/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pmp.nerdis.co.jp/en/"/>
+  </url>
+  <url>
+    <loc>https://pmp.nerdis.co.jp/ja/faq</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://pmp.nerdis.co.jp/ja/faq"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pmp.nerdis.co.jp/en/faq"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://pmp.nerdis.co.jp/zh/faq"/>
+  </url>
+  <url>
+    <loc>https://pmp.nerdis.co.jp/ja/quiz-sample</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://pmp.nerdis.co.jp/ja/quiz-sample"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pmp.nerdis.co.jp/en/quiz-sample"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://pmp.nerdis.co.jp/zh/quiz-sample"/>
+  </url>
+  <url>
+    <loc>https://pmp.nerdis.co.jp/ja/terms</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://pmp.nerdis.co.jp/ja/terms"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pmp.nerdis.co.jp/en/terms"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://pmp.nerdis.co.jp/zh/terms"/>
+  </url>
+  <url>
+    <loc>https://pmp.nerdis.co.jp/en/</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://pmp.nerdis.co.jp/ja/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pmp.nerdis.co.jp/en/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://pmp.nerdis.co.jp/zh/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pmp.nerdis.co.jp/en/"/>
+  </url>
+  <url>
+    <loc>https://pmp.nerdis.co.jp/en/faq</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://pmp.nerdis.co.jp/ja/faq"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pmp.nerdis.co.jp/en/faq"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://pmp.nerdis.co.jp/zh/faq"/>
+  </url>
+  <url>
+    <loc>https://pmp.nerdis.co.jp/en/quiz-sample</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://pmp.nerdis.co.jp/ja/quiz-sample"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pmp.nerdis.co.jp/en/quiz-sample"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://pmp.nerdis.co.jp/zh/quiz-sample"/>
+  </url>
+  <url>
+    <loc>https://pmp.nerdis.co.jp/en/terms</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://pmp.nerdis.co.jp/ja/terms"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pmp.nerdis.co.jp/en/terms"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://pmp.nerdis.co.jp/zh/terms"/>
+  </url>
+  <url>
+    <loc>https://pmp.nerdis.co.jp/zh/</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://pmp.nerdis.co.jp/ja/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pmp.nerdis.co.jp/en/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://pmp.nerdis.co.jp/zh/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pmp.nerdis.co.jp/en/"/>
+  </url>
+  <url>
+    <loc>https://pmp.nerdis.co.jp/zh/faq</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://pmp.nerdis.co.jp/ja/faq"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pmp.nerdis.co.jp/en/faq"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://pmp.nerdis.co.jp/zh/faq"/>
+  </url>
+  <url>
+    <loc>https://pmp.nerdis.co.jp/zh/quiz-sample</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://pmp.nerdis.co.jp/ja/quiz-sample"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pmp.nerdis.co.jp/en/quiz-sample"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://pmp.nerdis.co.jp/zh/quiz-sample"/>
+  </url>
+  <url>
+    <loc>https://pmp.nerdis.co.jp/zh/terms</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://pmp.nerdis.co.jp/ja/terms"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pmp.nerdis.co.jp/en/terms"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://pmp.nerdis.co.jp/zh/terms"/>
+  </url>
+</urlset>
